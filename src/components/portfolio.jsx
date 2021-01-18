@@ -21,7 +21,7 @@ class Portfolio extends React.Component {
               <div className="title-box text-center">
                 <h3 className="title-a">Portafolio</h3>
                 <p className="subtitle-a">
-                  A lo largo de los años, he creado distintos pyojectos dónde mi enfoque es crear productos de calidad.
+                  A lo largo de los años, he creado distintos proyectos dónde mi enfoque es crear productos de calidad.
                 </p>
                 <div className="line-mf"></div>
               </div>

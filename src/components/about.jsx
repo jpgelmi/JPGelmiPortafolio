@@ -26,12 +26,12 @@ class About extends React.Component {
         {
           id: "first-p-about",
           content:
-            "Tengo cuatro años de experiencia en el desarollo de sofware. He creado más de 15 aplicaciones móviles para IOS y Android. También más de 20 páginas web."
+            "Tengo cuatro años de experiencia en el desarollo de software. He creado más de 15 aplicaciones móviles para IOS y Android. También más de 20 páginas web."
         },
         {
           id: "second-p-about",
           content:
-            "Este año estuve trabajando con distintos comunnity managrs para crear contenído digital."
+            "Este año estuve trabajando con distintos community managers para crear contenido digital."
         },
         {
           id: "third-p-about",
