@@ -5,11 +5,8 @@ import stock from "../img/image1.jpg";
 import stock1 from "../img/image2.jpg";
 import stock2 from "../img/image3.jpg";
 import stock3 from "../img/image4.png";
-import stock4 from "../img/image5.png";
-import stock5 from "../img/image6.png";
-import stock6 from "../img/image7.png";
-import stock7 from "../img/image8.png";
-import stock8 from "../img/image9.png";
+import stock5 from "../img/image5.png";
+import stock4 from "../img/image6.png";
 
 class Portfolio extends React.Component {
   render() {
@@ -221,10 +218,10 @@ class Portfolio extends React.Component {
                   <div className="work-content">
                     <div className="row">
                       <div className="col-sm-8">
-                        <h2 className="w-title">Drinks website</h2>
+                        <h2 className="w-title">Landing page</h2>
                         <div className="w-more">
                           <span className="w-ctegory">
-                            ReactJS Material Ui External Api
+                            HTML CSS
                           </span>
                         </div>
                       </div>
@@ -282,9 +279,9 @@ class Portfolio extends React.Component {
                   <div className="work-content">
                     <div className="row">
                       <div className="col-sm-8">
-                        <h2 className="w-title">Image Search</h2>
+                        <h2 className="w-title">Landing page</h2>
                         <div className="w-more">
-                          <span className="w-ctegory">ReactJS Styled-Components External Api</span>
+                          <span className="w-ctegory">HTML CSS</span>
                         </div>
                       </div>
                       <div className="col-sm-4">
@@ -341,10 +338,10 @@ class Portfolio extends React.Component {
                   <div className="work-content">
                     <div className="row">
                       <div className="col-sm-8">
-                        <h2 className="w-title">E-Commerce</h2>
+                        <h2 className="w-title">Image search</h2>
                         <div className="w-more">
                           <span className="w-ctegory">
-                            React JS CSS5
+                            React JS CSS5 styled components
                           </span>
                         </div>
                       </div>
