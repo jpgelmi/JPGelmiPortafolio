@@ -338,10 +338,10 @@ class Portfolio extends React.Component {
                   <div className="work-content">
                     <div className="row">
                       <div className="col-sm-8">
-                        <h2 className="w-title">Image search</h2>
+                        <h2 className="w-title">Website</h2>
                         <div className="w-more">
                           <span className="w-ctegory">
-                            React JS CSS5 styled components
+                            HTML CSS
                           </span>
                         </div>
                       </div>
