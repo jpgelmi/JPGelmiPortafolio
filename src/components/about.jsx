@@ -30,7 +30,7 @@ class About extends React.Component {
         {
           id: "second-p-about",
           content:
-            "Recientemente he estado trabajando en torno a la automatización de actividades, como envio de mansajes, mails y creación de reportes"
+            "Recientemente he estado trabajando en torno a la automatización de actividades, como envio de mansajes, mails y creación de reportes."
         },
         {
           id: "third-p-about",
