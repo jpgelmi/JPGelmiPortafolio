@@ -25,7 +25,7 @@ class About extends React.Component {
         {
           id: "first-p-about",
           content:
-            "He creado distintos proyectos en torno al desarrollo de software. Creando distintas aplicaciones móviles para IOS y Android. También he trabajado en distintos proyectos web, creando E-Commerce, portafolios, páginas personalizadas y mucho más."
+            "He creado distintos proyectos en torno al desarrollo de software. Creando distintas aplicaciones móviles para IOS y Android. También he trabajado en distintos proyectos web, creando landing pages, portafolios, páginas personalizadas y mucho más."
         },
         {
           id: "second-p-about",
