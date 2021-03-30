@@ -5,7 +5,7 @@ class About extends React.Component {
     super();
     this.state = {
       skills: [
-        { id: "HTML5_skill", content: "Python", porcentage: "100%", value: "100" },
+        { id: "HTML5_skill", content: "Python", porcentage: "90%", value: "90" },
         { id: "CSS3_skill", content: "Desarrollo móvil", porcentage: "90%", value: "90" },
         {
           id: "JavaScript_skill",
